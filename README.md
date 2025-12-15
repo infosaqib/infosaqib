@@ -4,8 +4,6 @@
 
 # 👋 I'm Najam us Saqib.
 
-## Here's a little about me 💁
-
 I'm a software engineer who loves to code and chat in a variety of programming and natural languages with friends from around the world. 🌏🌍🌎
 
 I build cross-platform, full-stack Web apps using Javascript, TypeScript, Tailwindcss, SASS, Node.js, Nest.js, Express.js, Prisma ORM, PostgreSQL, Mongodb, Docker, AWS and many other technologies. 🧑‍💻
