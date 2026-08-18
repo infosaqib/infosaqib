@@ -42,7 +42,7 @@ GMS App is a comprehensive Ginning Management System designed to streamline cott
 
 <div align="center">
 
-[![Skill Icons](https://skillicons.dev/icons?i=tailwind,sass,php,js,ts,vuejs,laravel,nodejs,express,nest,electron,prisma,mongodb,mysql,postgres,firebase,linux,docker,aws,vercel,replit,postman,git,github&perline=12)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=tailwind,sass,php,laravel,js,ts,vuejs,nuxtjs,nodejs,express,nest,electron,prisma,mongodb,mysql,postgres,firebase,linux,docker,aws,vercel,postman,git,github&perline=12)](https://skillicons.dev)
 
 </div>
 
